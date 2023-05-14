@@ -1,0 +1,9 @@
+https://aws.amazon.com/amazon-linux-2/
+9 package(s) needed for security, out of 22 available
+Run "sudo yum update" to apply all updates.
+[ec2-user@ip-172-31-33-20 ~]$ cd /opt/040423_evening/
+[ec2-user@ip-172-31-33-20 040423_evening]$ mkdir viva
+[ec2-user@ip-172-31-33-20 040423_evening]$ ls
+chumak  jenyaa  oldenburg  sementsova  shustrova  sternard  viva
+[ec2-user@ip-172-31-33-20 040423_evening]$ cd viva
+[ec2-user@ip-172-31-33-20 viva]$ 
